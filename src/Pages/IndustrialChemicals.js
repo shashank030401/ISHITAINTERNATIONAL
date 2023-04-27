@@ -27,7 +27,7 @@ function IndustrialChemicals({ windowSize }) {
             margin="0px"
             fontWeight="600"
           >
-            Industrial fertilizers
+            Industrial Chemicals
           </CustomText>
         </ImageText>
       </HeroImageComponet>
